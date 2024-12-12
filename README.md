@@ -23,4 +23,4 @@ Control group (A): nothing changed; Treatment group (B): change the function or 
 ### Central limit theorem (CLT)
 #### Definition
 The Central Limit Theorem explains that the sample distribution of the sample mean resembles the normal distribution irrespective of the fact that whether the variables themselves are distributed normally or not. <br />
-Let us assume we have a random variable X. Let σ be its standard deviation and μ is the mean of the random variable. Now as per the Central Limit Theorem, the sample mean \overline{X}  will approximate to the normal distribution which is given as \overline{X} ⁓ N(μ, σ/√n). The Z-Score of the random variable \overline{X}  is given as Z = \dfrac{\overline x – \mu}{\frac{\sigma}{\sqrt n}} . Here \overline x  is the mean of \overline X . The image of the formula is attached below.
+
