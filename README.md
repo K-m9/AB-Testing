@@ -26,7 +26,7 @@ The Central Limit Theorem explains that the sample distribution of the sample me
 
 ### Shapiro–Wilk test
 The Shapiro–Wilk test is a test of normality.
-$\displaystyle W={\left(\sum _{i=1}^{n}a_{i}x_{(i)}\right)^{2} \over \sum _{i=1}^{n}(x_{i}-{\overline {x}})^{2}},$
+$$\displaystyle W={\left(\sum _{i=1}^{n}a_{i}x_{(i)}\right)^{2} \over \sum _{i=1}^{n}(x_{i}-{\overline {x}})^{2}},$$
 where
 $\displaystyle x_{(i)}$ with parentheses enclosing the subscript index i is the ith order statistic, i.e., the ith-smallest number in the sample (not to be confused with $\displaystyle x_{i}$ ).
 $\displaystyle {\overline {x}}=\left(x_{1}+\cdots +x_{n}\right)/n$ is the sample mean.
