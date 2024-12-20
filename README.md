@@ -23,5 +23,6 @@ Control group (A): nothing changed; Treatment group (B): change the function or 
 https://github.com/K-m9/AB-Testing/blob/main/AB%20Testing%20theories.md
 
 ## Project
-### [Mobile Games A/B Testing - Cookie Cats](https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats)
-https://github.com/K-m9/AB-Testing/blob/main/cookie_cats.csv/AB_TESTING.ipynb
+### Mobile Games A/B Testing - Cookie Cats
+dataset: https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats
+solution: https://github.com/K-m9/AB-Testing/blob/main/cookie_cats.csv/AB_TESTING.ipynb
