@@ -21,3 +21,6 @@ Control group (A): nothing changed; Treatment group (B): change the function or 
 
 ## Theories
 https://github.com/K-m9/AB-Testing/blob/main/AB%20Testing%20theories.md
+
+## Project
+https://github.com/K-m9/AB-Testing/blob/main/cookie_cats.csv/AB_TESTING.ipynb
