@@ -26,7 +26,7 @@ The Central Limit Theorem explains that the sample distribution of the sample me
 
 ### Shapiro–Wilk test
 The Shapiro–Wilk test is a test of normality.
-$$\displaystyle W={\left(\sum _{i=1}^{n}a_{i}x_{(i)}\right)^{2} \over \sum _{i=1}^{n}(x_{i}-{\overline {x}})^{2}},$$
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mstyle displaystyle="true" scriptlevel="0"><mi>W</mi><mo>=</mo><mrow><mfrac><msup><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><munderover><mo data-mjx-texclass="OP">∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><msub><mi>a</mi><mrow><mi>i</mi></mrow></msub><msub><mi>x</mi><mrow><mo stretchy="false">(</mo><mi>i</mi><mo stretchy="false">)</mo></mrow></msub><mo data-mjx-texclass="CLOSE">)</mo></mrow><mrow><mn>2</mn></mrow></msup><mrow><munderover><mo data-mjx-texclass="OP">∑</mo><mrow><mi>i</mi><mo>=</mo><mn>1</mn></mrow><mrow><mi>n</mi></mrow></munderover><mo stretchy="false">(</mo><msub><mi>x</mi><mrow><mi>i</mi></mrow></msub><mo>−</mo><mrow><mover><mi>x</mi><mo accent="false">¯</mo></mover></mrow><msup><mo stretchy="false">)</mo><mrow><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></math>
 where
 $\displaystyle x_{(i)}$ with parentheses enclosing the subscript index i is the ith order statistic, i.e., the ith-smallest number in the sample (not to be confused with $\displaystyle x_{i}$ ).
 $\displaystyle {\overline {x}}=\left(x_{1}+\cdots +x_{n}\right)/n$ is the sample mean.
